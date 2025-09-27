@@ -21,6 +21,10 @@ Evaluation metrics for classification and/or captioning.
 
 Example inference for visual question answering (VQA) on medical images.
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 27, 2025, 02_37_15 PM" src="https://github.com/user-attachments/assets/6798a884-f838-43d0-8c6d-dd9c365eee7d" />
+
+
 🚀 Getting Started
 1. Clone the file
 
