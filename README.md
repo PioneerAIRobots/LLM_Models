@@ -1,4 +1,4 @@
-# 🔵 LINKEDIN POST — LLaMA 3.2 Vision for Chest X-Ray Interpretation
+# LLaMA 3.2 Vision for Chest X-Ray Interpretation
 
 ---
 
@@ -398,9 +398,6 @@ MIT License — open for research and educational use with attribution.
 ---
 
 ⭐ Star · 🍴 Fork · 💬 Contribute · 📤 Share
-
-```
-
 
 
 
